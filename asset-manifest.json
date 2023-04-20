@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8c20f013.chunk.css",
-    "main.js": "/static/js/main.a4038274.chunk.js",
-    "main.js.map": "/static/js/main.a4038274.chunk.js.map",
+    "main.js": "/static/js/main.05272034.chunk.js",
+    "main.js.map": "/static/js/main.05272034.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.66c802b8.js",
     "runtime-main.js.map": "/static/js/runtime-main.66c802b8.js.map",
     "static/css/2.42633099.chunk.css": "/static/css/2.42633099.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.8c20f013.chunk.css.map": "/static/css/main.8c20f013.chunk.css.map",
     "static/js/2.c9fc7e69.chunk.js.LICENSE.txt": "/static/js/2.c9fc7e69.chunk.js.LICENSE.txt",
     "static/media/CA.f0657675.png": "/static/media/CA.f0657675.png",
-    "static/media/Dhiraj_dubey_resume.b25597f1.pdf": "/static/media/Dhiraj_dubey_resume.b25597f1.pdf",
+    "static/media/Dhiraj_dubey_resume.bcc0f00c.pdf": "/static/media/Dhiraj_dubey_resume.bcc0f00c.pdf",
     "static/media/about.e71ce474.png": "/static/media/about.e71ce474.png",
     "static/media/bbuy.3dcc857a.png": "/static/media/bbuy.3dcc857a.png",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
@@ -29,6 +29,6 @@
     "static/css/2.42633099.chunk.css",
     "static/js/2.c9fc7e69.chunk.js",
     "static/css/main.8c20f013.chunk.css",
-    "static/js/main.a4038274.chunk.js"
+    "static/js/main.05272034.chunk.js"
   ]
 }
